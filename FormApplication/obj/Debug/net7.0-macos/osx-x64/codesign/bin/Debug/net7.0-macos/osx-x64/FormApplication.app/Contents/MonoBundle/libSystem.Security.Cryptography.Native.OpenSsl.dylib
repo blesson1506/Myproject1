@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/blesson1506/Projects/FormApplication/FormApplication/bin/Debug/net7.0-macos/osx-x64/FormApplication.app/Contents/MonoBundle/libSystem.Security.Cryptography.Native.OpenSsl.dylib

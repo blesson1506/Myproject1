@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{39A7986F-1F15-460D-97A9-E94166DE033A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FormApplication PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormApplication/Main.cs">
+    <Files>
+      <File FileName="FormApplication/ViewController.designer.cs" />
+      <File FileName="FormApplication/ViewController.cs" />
+      <File FileName="FormApplication/Main.cs" Line="7" Column="1" />
+      <File FileName="FormApplication/AppDelegate.cs" />
+      <File FileName="FormApplication/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FormApplication" expanded="True">
+            <Node name="FormApplication" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

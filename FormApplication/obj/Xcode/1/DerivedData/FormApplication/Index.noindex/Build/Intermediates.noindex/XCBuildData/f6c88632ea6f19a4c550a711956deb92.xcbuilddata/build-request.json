@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "dae5c12ba0543a8d1dfdaaaf9ecbd93b176fe74d0e111724c565c2f34fdb9a52"
+    }
+  ],
+  "containerPath" : "/Users/blesson1506/Projects/FormApplication/FormApplication/obj/Xcode/1/FormApplication.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.5",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/blesson1506/Projects/FormApplication/FormApplication/obj/Xcode/1/DerivedData/FormApplication/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/blesson1506/Projects/FormApplication/FormApplication/obj/Xcode/1/DerivedData/FormApplication/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/blesson1506/Projects/FormApplication/FormApplication/obj/Xcode/1/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/blesson1506/Projects/FormApplication/FormApplication/obj/Xcode/1/DerivedData/FormApplication/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/blesson1506/Projects/FormApplication/FormApplication/obj/Xcode/1/DerivedData/FormApplication/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/blesson1506/Projects/FormApplication/FormApplication/obj/Xcode/1/DerivedData/FormApplication/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/blesson1506/Projects/FormApplication/FormApplication/obj/Xcode/1/DerivedData/FormApplication/Build/Products",
+      "pchPath" : "/Users/blesson1506/Projects/FormApplication/FormApplication/obj/Xcode/1/DerivedData/FormApplication/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
